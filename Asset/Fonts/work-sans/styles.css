@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Work Sans 400';
+  src: url(./Work+Sans+400.eot);
+  src: url(./Work+Sans+400.eot?#iefix) format('embedded-opentype'),
+       url(./Work+Sans+400.svg#Work%20Sans%20400) format('svg'),
+       url(./Work+Sans+400.woff) format('woff'),
+       url(./Work+Sans+400.woff2) format('woff2');
+}
